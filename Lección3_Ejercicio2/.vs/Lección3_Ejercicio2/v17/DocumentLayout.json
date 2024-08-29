@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\P.Jeremy\\Lecci\u00F3n3\\Lecci\u00F3n3_Ejercicio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{069B4E18-A39E-4B75-9E99-5A29312466BD}|Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2.csproj|e:\\clases\\3. semestre\\programaci\u00F3n estructurada\\tarea\\p.jeremy\\lecci\u00F3n3\\lecci\u00F3n3_ejercicio2\\lecci\u00F3n3_ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069B4E18-A39E-4B75-9E99-5A29312466BD}|Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2.csproj|solutionrelative:lecci\u00F3n3_ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069B4E18-A39E-4B75-9E99-5A29312466BD}|Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2.csproj|e:\\clases\\3. semestre\\programaci\u00F3n estructurada\\tarea\\p.jeremy\\lecci\u00F3n3\\lecci\u00F3n3_ejercicio2\\lecci\u00F3n3_ejercicio2\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069B4E18-A39E-4B75-9E99-5A29312466BD}|Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2.csproj|solutionrelative:lecci\u00F3n3_ejercicio2\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069B4E18-A39E-4B75-9E99-5A29312466BD}|Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2.csproj|e:\\clases\\3. semestre\\programaci\u00F3n estructurada\\tarea\\p.jeremy\\lecci\u00F3n3\\lecci\u00F3n3_ejercicio2\\lecci\u00F3n3_ejercicio2\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069B4E18-A39E-4B75-9E99-5A29312466BD}|Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2.csproj|solutionrelative:lecci\u00F3n3_ejercicio2\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069B4E18-A39E-4B75-9E99-5A29312466BD}|Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2.csproj|e:\\clases\\3. semestre\\programaci\u00F3n estructurada\\tarea\\p.jeremy\\lecci\u00F3n3\\lecci\u00F3n3_ejercicio2\\lecci\u00F3n3_ejercicio2\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069B4E18-A39E-4B75-9E99-5A29312466BD}|Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2.csproj|solutionrelative:lecci\u00F3n3_ejercicio2\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069B4E18-A39E-4B75-9E99-5A29312466BD}|Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2.csproj|e:\\clases\\3. semestre\\programaci\u00F3n estructurada\\tarea\\p.jeremy\\lecci\u00F3n3\\lecci\u00F3n3_ejercicio2\\lecci\u00F3n3_ejercicio2\\iconducible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069B4E18-A39E-4B75-9E99-5A29312466BD}|Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2.csproj|solutionrelative:lecci\u00F3n3_ejercicio2\\iconducible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\P.Jeremy\\Lecci\u00F3n3\\Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2\\Moto.cs",
+              "RelativeDocumentMoniker": "Lecci\u00F3n3_Ejercicio2\\Moto.cs",
+              "ToolTip": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\P.Jeremy\\Lecci\u00F3n3\\Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2\\Moto.cs",
+              "RelativeToolTip": "Lecci\u00F3n3_Ejercicio2\\Moto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:40:51.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\P.Jeremy\\Lecci\u00F3n3\\Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2\\Auto.cs",
+              "RelativeDocumentMoniker": "Lecci\u00F3n3_Ejercicio2\\Auto.cs",
+              "ToolTip": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\P.Jeremy\\Lecci\u00F3n3\\Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2\\Auto.cs",
+              "RelativeToolTip": "Lecci\u00F3n3_Ejercicio2\\Auto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:40:05.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\P.Jeremy\\Lecci\u00F3n3\\Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Lecci\u00F3n3_Ejercicio2\\Vehiculo.cs",
+              "ToolTip": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\P.Jeremy\\Lecci\u00F3n3\\Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2\\Vehiculo.cs",
+              "RelativeToolTip": "Lecci\u00F3n3_Ejercicio2\\Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:39:25.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IConducible.cs",
+              "DocumentMoniker": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\P.Jeremy\\Lecci\u00F3n3\\Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2\\IConducible.cs",
+              "RelativeDocumentMoniker": "Lecci\u00F3n3_Ejercicio2\\IConducible.cs",
+              "ToolTip": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\P.Jeremy\\Lecci\u00F3n3\\Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2\\IConducible.cs",
+              "RelativeToolTip": "Lecci\u00F3n3_Ejercicio2\\IConducible.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:39:07.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\P.Jeremy\\Lecci\u00F3n3\\Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Lecci\u00F3n3_Ejercicio2\\Program.cs",
+              "ToolTip": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\P.Jeremy\\Lecci\u00F3n3\\Lecci\u00F3n3_Ejercicio2\\Lecci\u00F3n3_Ejercicio2\\Program.cs",
+              "RelativeToolTip": "Lecci\u00F3n3_Ejercicio2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:38:53.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

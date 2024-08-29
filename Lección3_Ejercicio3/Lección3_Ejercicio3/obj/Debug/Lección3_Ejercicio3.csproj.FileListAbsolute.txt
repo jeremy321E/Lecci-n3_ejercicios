@@ -1,0 +1,7 @@
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\P.Jeremy\Lección3\Lección3_Ejercicio3\Lección3_Ejercicio3\bin\Debug\Lección3_Ejercicio3.exe.config
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\P.Jeremy\Lección3\Lección3_Ejercicio3\Lección3_Ejercicio3\bin\Debug\Lección3_Ejercicio3.exe
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\P.Jeremy\Lección3\Lección3_Ejercicio3\Lección3_Ejercicio3\bin\Debug\Lección3_Ejercicio3.pdb
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\P.Jeremy\Lección3\Lección3_Ejercicio3\Lección3_Ejercicio3\obj\Debug\Lección3_Ejercicio3.csproj.AssemblyReference.cache
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\P.Jeremy\Lección3\Lección3_Ejercicio3\Lección3_Ejercicio3\obj\Debug\Lección3_Ejercicio3.csproj.CoreCompileInputs.cache
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\P.Jeremy\Lección3\Lección3_Ejercicio3\Lección3_Ejercicio3\obj\Debug\Lección3_Ejercicio3.exe
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\P.Jeremy\Lección3\Lección3_Ejercicio3\Lección3_Ejercicio3\obj\Debug\Lección3_Ejercicio3.pdb
